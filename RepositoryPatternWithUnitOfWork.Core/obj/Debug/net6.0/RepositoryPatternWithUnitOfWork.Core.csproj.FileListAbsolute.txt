@@ -1,0 +1,12 @@
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.deps.json
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.dll
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.pdb
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.csproj.AssemblyReference.cache
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.AssemblyInfoInputs.cache
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.AssemblyInfo.cs
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.csproj.CoreCompileInputs.cache
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.dll
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\refint\RepositoryPatternWithUnitOfWork.Core.dll
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.pdb
+D:\_June\New folder\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\ref\RepositoryPatternWithUnitOfWork.Core.dll
