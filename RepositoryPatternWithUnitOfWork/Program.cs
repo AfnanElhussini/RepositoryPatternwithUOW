@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using RepositoryPatternWithUnitOfWork.Core.Interfaces;
 using RepositoryPatternWithUnitOfWork.EF;
+using RepositoryPatternWithUnitOfWork.EF.Repositories;
 
 namespace RepositoryPatternWithUnitOfWork
 {
@@ -23,6 +25,7 @@ namespace RepositoryPatternWithUnitOfWork
                            b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)
                            
                            ));
+       builder.Services.AddTransient(typeof(IBaseRepository<>), typeof(BaseRepository<>));
 
             var app = builder.Build();
 
