@@ -25,7 +25,8 @@ namespace RepositoryPatternWithUnitOfWork
                            b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)
                            
                            ));
-       builder.Services.AddTransient(typeof(IBaseRepository<>), typeof(BaseRepository<>));
+            //builder.Services.AddTransient(typeof(IBaseRepository<>), typeof(BaseRepository<>));
+            builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 
             var app = builder.Build();
 
